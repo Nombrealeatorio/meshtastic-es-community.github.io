@@ -41,7 +41,7 @@ A continuación te presentamos una lista de antenas recomendadas y no recomendad
 - **Yagi direccional Aliexpress:**
   Se recomienda comprobar con VNA (Analizador de Redes Vectorial).
   Puede que sea necesario ajustarla para obtener mejor rendimiento.
-  [Ver en AliExpress](https://a.aliexpress.com/_Eu7alUU)
+  [Ver en AliExpress](https://es.aliexpress.com/item/1005006664026795.html?)
 
 - **Yagi direccional Amazon:**
 Antena probada que da buen rendimiento aunque algo mas cara.
